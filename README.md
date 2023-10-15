@@ -1,17 +1,18 @@
 ### Hello world, I'm Jessica 👋
 ---
-
-#### I'm a Front-End Developer originally from Brazil ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") based in New York ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States").
+#### I'm a Software-Engineer originally from Brazil ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") based in New York ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States").
 
 - 🏢 I'm currently working full-time at **Cisco Systems**
 - 🌱 Learning more about and studying: **Open Source, React, TypeScript, Web development, CS Algorithms**
 - 💬 Ping me about: **wed development**, **web design**, **diversity & inclusion**, **women in tech**, **mentorship**
-- 📫 Reach me asap: jessicarodrigues_felix@hotmail.com
 - 💜 Interests: 🏋️‍♀️ Fitness Junkie, 🥗 Health-Conscious Foodie, 🌿 Plant Lover, 🌍 Adventurous Explorer, 🎹 Electronic organ/piano lover 
-- 😄 I'm deeply passionate about tech and dedicated to fostering inclusivity by ensuring web accessibility for all.
+- 🤝 I'm deeply passionate about tech and dedicated to fostering inclusivity by ensuring web accessibility for all.
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaRodriguesFelix&layout=compact)
+---
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/jessica-rodrigues-dlouhy/">LinkedIn</a>
+- 📫 Reache me: jessicarodrigues_felix@hotmail.com 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love meeting new people and making friends,</b> so feel free to say hello!<b> 🙃
 
