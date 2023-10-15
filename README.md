@@ -1,11 +1,12 @@
-### Hello world, I'm Jessica 👋
+### Hello world 👋, I'm Jessica, a passionate developer and lifelong learner!👩🏻‍💻
 ---
 #### I'm a Software-Engineer originally from Brazil ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") based in New York ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States").
 
-- 🏢 I'm currently working full-time at **Cisco Systems**
-- 🌱 Learning more about and studying: **Open Source, React, TypeScript, Web development, CS Algorithms**
-- 💬 Ping me about: **wed development**, **web design**, **diversity & inclusion**, **women in tech**, **mentorship**
-- 💜 Interests: 🏋️‍♀️ Fitness Junkie, 🥗 Health-Conscious Foodie, 🌿 Plant Lover, 🌍 Adventurous Explorer, 🎹 Electronic organ/piano lover 
+- 🏢 I'm currently working full-time at **Cisco Systems**.
+- 🌱 Learning more about and studying: **Open Source, React, TypeScript, Web development, CS Algorithms**.
+- 💬 Ping me about: **wed development**, **web design**, **diversity & inclusion**, **women in tech**, **mentorship**.
+- 💜 Interests: 🏋️‍♀️ Fitness Junkie, 🥗 Health-Conscious Foodie, 🌿 Plant Lover, 🌍 Adventurous Explorer, 🎹 Electronic organ/piano lover.
+- 📚 Love to share knowledge and collaborate with others.
 - 🤝 I'm deeply passionate about tech and dedicated to fostering inclusivity by ensuring web accessibility for all.
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaRodriguesFelix&layout=compact)
@@ -47,4 +48,4 @@
    - ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-⭐️ From Jessica Rodrigues-Dlouhy
+⭐️ Let's code and learn together! 💻
