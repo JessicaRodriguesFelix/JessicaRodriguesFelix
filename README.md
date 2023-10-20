@@ -3,13 +3,14 @@
 #### I'm a Software-Engineer originally from Brazil ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") based in New York ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States").
 
 - 🏢 I'm currently working full-time at **Cisco Systems**.
-- 🌱 Learning more about and studying: **Open Source, React, TypeScript, Web development, CS Algorithms**.
+- 🌱 Learning more about and studying: **Open Source, React, TypeScript, Web development, UI/UX, CS Algorithms**.
 - 💬 Ping me about: **wed development**, **web design**, **diversity & inclusion**, **women in tech**, **mentorship**.
 - 💜 Interests: 🏋️‍♀️ Fitness Junkie, 🥗 Health-Conscious Foodie, 🌿 Plant Lover, 🌍 Adventurous Explorer, 🎹 Electronic organ/piano lover.
 - 📚 Love to share knowledge and collaborate with others.
 - 🤝 I'm deeply passionate about tech and dedicated to fostering inclusivity by ensuring web accessibility for all.
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaRodriguesFelix&layout=compact)
+ ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaRodriguesFelix&show_icons=true&bg_color=00000000)
 ---
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/jessica-rodrigues-dlouhy/">LinkedIn</a>
