@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently working full-time at **Cisco Systems**.
 - 🌱 Learning more about and studying: **Open Source, React, TypeScript, Web development, UI/UX, CS Algorithms**.
-- 💬 Ping me about: **wed development**, **web design**, **diversity & inclusion**, **women in tech**, **mentorship**.
+- 💬 Ping me about: **web development**, **web design**, **diversity & inclusion**, **women in tech**, **mentorship**.
 - 💜 Interests: 🏋️‍♀️ Fitness Junkie, 🥗 Health-Conscious Foodie, 🌿 Plant Lover, 🌍 Adventurous Explorer, 🎹 Electronic organ/piano lover.
 - 📚 Love to share knowledge and collaborate with others.
 - 🤝 I'm deeply passionate about tech and dedicated to fostering inclusivity by ensuring web accessibility for all.
@@ -14,7 +14,7 @@
 ---
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/jessica-rodrigues-dlouhy/">LinkedIn</a>
-- 📫 Reache me: jessicarodrigues_felix@hotmail.com 
+- 📫 Reach me: jessicarodrigues_felix@hotmail.com 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love meeting new people and making friends,</b> so feel free to say hello!<b> 🙃
 
